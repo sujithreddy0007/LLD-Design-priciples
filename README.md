@@ -1,1 +1,1 @@
-### This repository is about the solid priciples of system design
+### This repository is about the solid priciples of the system design
