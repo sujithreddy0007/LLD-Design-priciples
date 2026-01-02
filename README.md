@@ -14,13 +14,13 @@ The goal of this repository is to demonstrate how to transition from "code that 
 ### 1. SOLID Principles
 The five basic principles of object-oriented design and programming.
 
-| Principle | Description | Link |
-| :--- | :--- | :--- |
-| **S**RP | **Single Responsibility Principle**: A class should have one reason to change. | [View](./SOLID/SRP.md) |
-| **O**CP | **Open/Closed Principle**: Open for extension, closed for modification. | [View](./SOLID/OCP.md) |
-| **L**SP | **Liskov Substitution Principle**: Subclasses must be substitutable for their base classes. | [View](./SOLID/LSP.md) |
-| **I**SP | **Interface Segregation Principle**: Don't force clients to depend on methods they don't use. | [View](./SOLID/ISP.md) |
-| **D**IP | **Dependency Inversion Principle**: Depend on abstractions, not concretions. | [View](./SOLID/DIP.md) |
+| Principle | Description 
+| :--- | :--- 
+| **S**RP | **Single Responsibility Principle**: A class should have one reason to change. 
+| **O**CP | **Open/Closed Principle**: Open for extension, closed for modification. 
+| **L**SP | **Liskov Substitution Principle**: Subclasses must be substitutable for their base classes.
+| **I**SP | **Interface Segregation Principle**: Don't force clients to depend on methods they don't use. 
+| **D**IP | **Dependency Inversion Principle**: Depend on abstractions, not concretions. 
 
 
 
